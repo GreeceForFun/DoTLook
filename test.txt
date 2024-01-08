@@ -1,17 +1,12 @@
 [
     {
-        "username": "user1",
-        "password": "pass1",
+        "username": "greek",
+        "password": "greek",
         "ban": "no"
     },
     {
-        "username": "user2",
-        "password": "pass2",
-        "ban": "yes"
-    },
-    {
-        "username": "user3",
-        "password": "pass3",
+        "username": "nekz",
+        "password": "nekz",
         "ban": "no"
     }
 ]
