@@ -8,5 +8,10 @@
         "username": "test",
         "password": "test",
         "ban": "yes"
+    },
+    {
+        "username": "nekz",
+        "password": "nekz",
+        "ban": "no"
     }
 ]
