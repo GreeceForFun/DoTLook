@@ -12,6 +12,6 @@
     {
         "username": "nekz",
         "password": "nekz",
-        "ban": "no"
+        "ban": "yes"
     }
 ]
