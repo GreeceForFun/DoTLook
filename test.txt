@@ -2,7 +2,7 @@
     {
         "username": "greek",
         "password": "greek",
-        "ban": "no"
+        "ban": "no",
         "expiration_date": "never"
     },
     {
