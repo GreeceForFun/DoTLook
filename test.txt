@@ -3,7 +3,7 @@
         "username": "greek",
         "password": "greek",
         "ban": "no",
-        "expiration_date": "10/1/2024"
+        "expiration_date": "2022-01-10"
     },
     {
         "username": "test",
