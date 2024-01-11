@@ -7,6 +7,6 @@
     {
         "username": "test",
         "password": "test",
-        "ban": "no"
+        "ban": "yes"
     }
 ]
