@@ -1,13 +1,1 @@
-[
-    {
-        "username": "greek",
-        "password": "greek",
-        "ban": "no",
-        "expiration_date": "never"
-    },
-    {
-        "username": "test",
-        "password": "test",
-        "ban": "no"
-    }
-]
+no
